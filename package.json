@@ -1,0 +1,23 @@
+{
+  "name": "nlw2",
+  "version": "1.0.0",
+  "description": "Reposiório criado para a semana da Next Level Weel 2.\r Feito pela aluna Taís da Costa Guerra",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiscostaguerra/Next-Level-Week.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taiscostaguerra/Next-Level-Week/issues"
+  },
+  "homepage": "https://github.com/taiscostaguerra/Next-Level-Week#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
